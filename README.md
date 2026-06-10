@@ -11,7 +11,9 @@
 
 ## Why I Chose This Issue
 
-[1-2 paragraphs explaining why this issue interests you, how it matches your skills/learning goals, what you hope to learn]
+I chose Issue #658 because it introduces an elegant and practical approach to model optimization: embedding the model's size directly into the loss function during dynamic quantization-aware training (QAT). Translating the concepts from the referenced research paper into a functional PyTorch ao implementation is an exciting challenge. It bridges the gap between theoretical AI research and production-level library code, which is exactly the kind of engineering I want to practice.
+
+Furthermore, working on this issue perfectly aligns with my learning goals for the AI301 program. It provides a highly technical, hands-on opportunity to explore PyTorch's internal quantization APIs (module: qat). By implementing this feature, I hope to deepen my understanding of how modern machine learning frameworks actively reduce memory footprints for edge deployment without sacrificing model accuracy.
 
 ---
 
